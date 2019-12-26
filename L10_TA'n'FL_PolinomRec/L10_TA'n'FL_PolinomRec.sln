@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L10_TA'n'FL_PR", "Lab8(Polinom)\L10_TA'n'FL_PR.csproj", "{6AF85E59-789F-4D52-A078-ED1D611375F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AF85E59-789F-4D52-A078-ED1D611375F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF85E59-789F-4D52-A078-ED1D611375F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF85E59-789F-4D52-A078-ED1D611375F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF85E59-789F-4D52-A078-ED1D611375F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54913591-C798-4664-AD2A-2D9B9375238E}
+	EndGlobalSection
+EndGlobal

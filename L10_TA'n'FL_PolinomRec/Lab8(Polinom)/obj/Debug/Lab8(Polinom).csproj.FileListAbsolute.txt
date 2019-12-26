@@ -1,0 +1,18 @@
+E:\Автоматы\Lab8(Polinom)\Lab8(Polinom)\bin\Debug\Lab8(Polinom).exe.config
+E:\Автоматы\Lab8(Polinom)\Lab8(Polinom)\bin\Debug\Lab8(Polinom).exe
+E:\Автоматы\Lab8(Polinom)\Lab8(Polinom)\bin\Debug\Lab8(Polinom).pdb
+E:\Автоматы\Lab8(Polinom)\Lab8(Polinom)\obj\Debug\Lab8(Polinom).csprojAssemblyReference.cache
+E:\Автоматы\Lab8(Polinom)\Lab8(Polinom)\obj\Debug\Lab8(Polinom).exe
+E:\Автоматы\Lab8(Polinom)\Lab8(Polinom)\obj\Debug\Lab8(Polinom).pdb
+F:\ВятГУ\Теория Автом и Форм Яз\Lab8(Polinom)\Lab8(Polinom)\bin\Debug\Lab8(Polinom).exe.config
+F:\ВятГУ\Теория Автом и Форм Яз\Lab8(Polinom)\Lab8(Polinom)\bin\Debug\Lab8(Polinom).exe
+F:\ВятГУ\Теория Автом и Форм Яз\Lab8(Polinom)\Lab8(Polinom)\bin\Debug\Lab8(Polinom).pdb
+F:\ВятГУ\Теория Автом и Форм Яз\Lab8(Polinom)\Lab8(Polinom)\obj\Debug\Lab8(Polinom).csprojAssemblyReference.cache
+F:\ВятГУ\Теория Автом и Форм Яз\Lab8(Polinom)\Lab8(Polinom)\obj\Debug\Lab8(Polinom).exe
+F:\ВятГУ\Теория Автом и Форм Яз\Lab8(Polinom)\Lab8(Polinom)\obj\Debug\Lab8(Polinom).pdb
+F:\ВятГУ\Теория Автом и Форм Яз\L10_TA'n'FL_PolinomRec\Lab8(Polinom)\bin\Debug\Lab8(Polinom).exe.config
+F:\ВятГУ\Теория Автом и Форм Яз\L10_TA'n'FL_PolinomRec\Lab8(Polinom)\bin\Debug\Lab8(Polinom).exe
+F:\ВятГУ\Теория Автом и Форм Яз\L10_TA'n'FL_PolinomRec\Lab8(Polinom)\bin\Debug\Lab8(Polinom).pdb
+F:\ВятГУ\Теория Автом и Форм Яз\L10_TA'n'FL_PolinomRec\Lab8(Polinom)\obj\Debug\Lab8(Polinom).csprojAssemblyReference.cache
+F:\ВятГУ\Теория Автом и Форм Яз\L10_TA'n'FL_PolinomRec\Lab8(Polinom)\obj\Debug\Lab8(Polinom).exe
+F:\ВятГУ\Теория Автом и Форм Яз\L10_TA'n'FL_PolinomRec\Lab8(Polinom)\obj\Debug\Lab8(Polinom).pdb
